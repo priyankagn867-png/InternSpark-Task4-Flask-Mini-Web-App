@@ -1,0 +1,4 @@
+Flask development server:
+ * Running on http://127.0.0.1:5000
+Open the URL in a browser.
+Add a task, click Done/Undo, and Delete tasks to verify the CRUD workflow.
